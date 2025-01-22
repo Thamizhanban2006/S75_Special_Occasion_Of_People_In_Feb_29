@@ -23,5 +23,4 @@
 
 **Why this project**
 
-This project is to notify people who celebrate their special occasion on February 29 which will come in leap year that is once every four year,
-So to specialize the rare ocaasion the application was developed to notify people and share their memorable moments
+This project is to notify people who celebrate their special occasion on February 29 which will come in leap year that is once every four year.
