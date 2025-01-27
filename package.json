@@ -1,5 +1,17 @@
 {
+
   "dependencies": {
     "express": "^4.21.2"
   }
+
+  "name": "s75_special_occasion_of_people_in_feb_29",
+  "version": "1.0.0",
+  "description": "**Project overview**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+
 }
