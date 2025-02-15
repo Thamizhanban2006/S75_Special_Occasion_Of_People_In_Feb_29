@@ -1,9 +1,15 @@
 const express = require("express")
 const app = express();
+
 const PORT = 3000;
 const mongoose = require('mongoose');
 
+
 require('dotenv').config()
+
+
+
+
 app.get("/ping",(req,res)=>{
     res.send("pong")
 });
