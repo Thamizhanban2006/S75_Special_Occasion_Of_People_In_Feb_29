@@ -12,7 +12,7 @@
 - First the application has login feature to give personalized setup 
 - They can register their  special events or occasions to give reminder and share their memory
 - The user can customize their notification according to their choice on the mentioned date
-- The application has an colorful and interactive UI(user interface)
+
 
 
 **Tech stack**
