@@ -1,5 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
+import NewComponent from "./NewComponent";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <li>🎊 Exclusive Leap Year Events</li>
       </ul>
       <p>Join us in making Leap Year birthdays unforgettable! 🎂</p>
+      <NewComponent/>
     </div>
   );
 }
